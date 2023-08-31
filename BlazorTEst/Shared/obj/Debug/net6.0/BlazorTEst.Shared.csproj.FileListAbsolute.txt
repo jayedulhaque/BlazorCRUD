@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\bin\Debug\net6.0\BlazorTEst.Shared.deps.json
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\bin\Debug\net6.0\BlazorTEst.Shared.dll
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\bin\Debug\net6.0\BlazorTEst.Shared.pdb
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.AssemblyInfo.cs
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.dll
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\refint\BlazorTEst.Shared.dll
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\BlazorTEst.Shared.pdb
+C:\Users\user\source\repos\BlazorTEst\BlazorTEst\Shared\obj\Debug\net6.0\ref\BlazorTEst.Shared.dll
